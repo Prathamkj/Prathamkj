@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a passionate and driven individual with a strong interest in technology and innovation. I'm always 
+I'm a passionate and driven individual with a strong interest in technology and innovation. 
+<br>
+I'm always 
 🤝  looking for the Internships<br>🌱 I’m currently learning Full Stack Development<br>💬As a self-taught Front-end developer, I began my journey by developing a variety of hands-on projects. My focus is on utilizing the Front-end to build scalable and dynamic web applications.<br>
 
 
